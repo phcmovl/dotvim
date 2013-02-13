@@ -32,6 +32,12 @@ set cursorcolumn
 "lets
 let mapleader=","
 
+"remaps
+noremap <leader>o <Esc>:CommandT<CR>
+noremap <leader>O <Esc>:CommandTFlush<CR>
+noremap <leader>m <Esc>:CommandTBuffer<CR>
+
+
 "misc
 syntax on
 colorscheme mustang
