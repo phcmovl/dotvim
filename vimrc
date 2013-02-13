@@ -37,3 +37,4 @@ syntax on
 colorscheme mustang
 filetype plugin indent on
 autocmd filetype python set expandtab
+hi CursorLine cterm=none
