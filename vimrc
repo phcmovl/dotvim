@@ -28,6 +28,7 @@ set nobackup
 set noswapfile
 set cursorline
 set cursorcolumn
+set mouse=a
 
 "lets
 let mapleader=","
